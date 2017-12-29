@@ -1,4 +1,4 @@
-import spark.Spark
+import controller.ServiceController
 import spark.Spark.*
 
 class ServiceRunner {
